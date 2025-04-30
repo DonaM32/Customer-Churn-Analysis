@@ -66,10 +66,9 @@ Data cleaning and field transformation
 📂 Folder Structure
 
 📁 customer-churn-analysis
-
-Project docustomer_churn_dataset.xlsx : Contains raw data, pivot tables, and the dashboard
-dashboard-screenshot.png :Visual snapshot of the final Excel dashboard
-README.md: Project documentation
+├── customer_churn_dataset.xlsx
+├── dashboard-screenshot.png
+└── README.md
 
 📬 Contact
 
