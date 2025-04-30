@@ -1,6 +1,13 @@
-📊 Customer Churn Analysis Dashboard
+📉 Customer Churn Analysis Dashboard
+This project analyzes customer churn data to uncover trends and insights that can help a business reduce churn, improve customer retention, and optimize revenue strategies.
+The final product is an interactive Excel dashboard that visualizes key performance indicators (KP|s) and churn breakdowns by city, subscription type, and month.
 
-An Excel-based dashboard project that visualizes churn behavior, monthly revenue, and key KPIs using PivotTables, slicers, and charts. Ideal for demonstrating data analysis and reporting skills.
+📊 Project Overview
+
+Tool Used: Microsoft Excel
+Dataset: Synthetic customer churn dataset (20 records)
+Objective: Identify churn patterns and monitor KPIs to assist in strategic decision-making.
+
 
 📁 Dataset
 
@@ -59,9 +66,10 @@ Data cleaning and field transformation
 📂 Folder Structure
 
 📁 customer-churn-analysis
-├── customer_churn_dataset.xlsx
-├── dashboard-screenshot.png
-└── README.md
+
+Project docustomer_churn_dataset.xlsx : Contains raw data, pivot tables, and the dashboard
+dashboard-screenshot.png :Visual snapshot of the final Excel dashboard
+README.md: Project documentation
 
 📬 Contact
 
