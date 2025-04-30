@@ -1,4 +1,5 @@
 📉 Customer Churn Analysis Dashboard
+
 This project analyzes customer churn data to uncover trends and insights that can help a business reduce churn, improve customer retention, and optimize revenue strategies.
 The final product is an interactive Excel dashboard that visualizes key performance indicators (KP|s) and churn breakdowns by city, subscription type, and month.
 
