@@ -66,8 +66,11 @@ Data cleaning and field transformation
 📂 Folder Structure
 
 📁 customer-churn-analysis
+
 ├── customer_churn_dataset.xlsx
+
 ├── dashboard-screenshot.png
+
 └── README.md
 
 📬 Contact
