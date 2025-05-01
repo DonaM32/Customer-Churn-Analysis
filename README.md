@@ -48,7 +48,8 @@ Slicers & Charts
 
 📷 Screenshot
 
-<img width="1037" alt="image" src="https://github.com/user-attachments/assets/3e40b58d-0bc7-4aaf-970e-4cc1d917640a" />
+<img width="1065" alt="image" src="https://github.com/user-attachments/assets/bff8ac55-2bc6-4f92-a860-b07c8d0ce9d5" />
+
 
 🔗 Project Link
 
