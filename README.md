@@ -9,11 +9,11 @@ Project Objectives
 
 💡 Key Metrics (KPIs)
 
-Total Customers: 20
-Churned Customers: 12
-Active Customers: 8
-Overall Churn Rate: 60.0%
-Average Monthly Revenue: $31.50
+* Total Customers: 20
+* Churned Customers: 12
+* Active Customers: 8
+* Overall Churn Rate: 60.0%
+* Average Monthly Revenue: $31.50
 
 Key Insights
 
