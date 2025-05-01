@@ -1,0 +1,21 @@
+﻿Customer ID,Subscription Date,Month,Cancellation Date,Subscription Type,Monthly Revenue,City,Churned
+1001,10/1/2023,Jan-23,-,Basic,20,Chicago,YES
+1002,15/1/2023,Jan-23,15/4/2023,Premium,50,Dallas,NO
+1003,1/2/2023,Feb-23,-,Standard,30,Miami,YES
+1004,10/2/2023,Feb-23,12/5/2023,Basic,20,Chicago,NO
+1005,5/3/2023,Mar-23,-,Premium,50,New York,YES
+1006,18/3/2023,Mar-23,18/7/2023,Basic,20,Dallas,NO
+1007,1/4/2023,Apr-23,-,Standard,30,Miami,YES
+1008,25/4/2023,Apr-23,25/6/2023,Basic,20,Chicago,NO
+1009,12/5/2023,May-23,-,Premium,50,New York,YES
+1010,20/5/2023,May-23,20/8/2023,Standard,30,Miami,NO
+1011,5/6/2023,Jun-23,-,Basic,20,Chicago,YES
+1012,18/6/2023,Jun-23,-,Premium,50,Dallas,YES
+1013,1/7/2023,Jul-23,1/10/2023,Basic,20,New York,NO
+1014,10/7/2023,Jul-23,-,Standard,30,Miami,YES
+1015,15/8/2023,Aug-23,15/11/2023,Premium,50,Chicago,NO
+1016,25/8/2023,Aug-23,-,Basic,20,Dallas,YES
+1017,5/9/2023,Sep-23,-,Standard,30,New York,YES
+1018,20/9/2023,Sep-23,20/12/2023,Basic,20,Miami,NO
+1019,1/10/2023,Oct-23,-,Premium,50,Chicago,YES
+1020,15/10/2023,Oct-23,-,Basic,20,Dallas,YES
