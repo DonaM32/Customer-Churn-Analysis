@@ -1,59 +1,66 @@
-📉 Customer Churn Analysis Dashboard
+This project explores a sample customer subscription dataset to identify churn patterns and uncover actionable insights. Using Excel, the analysis applies pivot tables, calculated fields, and visualizations to summarize churn behavior by city, subscription type, and monthly revenue trends.
 
-This project analyzes customer churn data to uncover trends and insights that can help a business reduce churn, improve customer retention, and optimize revenue strategies.
-The final product is an interactive Excel dashboard that visualizes key performance indicators (KP|s) and churn breakdowns by city, subscription type, and month.
+⸻
 
-📊 Project Overview
-
-Tool Used: Microsoft Excel
-Dataset: Synthetic customer churn dataset (20 records)
-Objective: Identify churn patterns and monitor KPIs to assist in strategic decision-making.
-
-
-📁 Dataset
-
-Simulated customer churn data for a subscription service
-
-Fields include: Customer ID, Subscription & Cancellation Dates, City, Subscription Type, Monthly Revenue, Churned Status
-
-🔍 Project Insights
+Project Objectives
+	•	Identify the number of churned vs. active customers.
+	•	Analyze churn rate by city, subscription type, and month.
+	•	Highlight monthly revenue trends.
+	•	Create a visual dashboard for executive insights.
 
 💡 Key Metrics (KPIs)
 
 Total Customers: 20
-
 Churned Customers: 12
-
-Churn Rate: 60.0%
-
+Active Customers: 8
+Overall Churn Rate: 60.0%
 Average Monthly Revenue: $31.50
 
-📊 Visualizations
 
-Churn Rate by City (Pie Chart)
+⸻
 
-Churn Rate by Subscription Type (Bar Chart)
+Key Insights
+	•	New York had the highest churn rate at 75%.
+	•	Standard subscriptions experienced the highest churn (80%).
+	•	Churn was most concentrated in the months of June and October (100% churn).
+	•	The average monthly revenue for churned customers is slightly higher than that of retained customers.
 
-Monthly Churn and Revenue Trends
+⸻
 
-Summary KPIs using card visuals
+Dashboard Highlights
+	•	Pie Chart: Churn Rate by City
+	•	Bar Chart: Churn by Subscription Type
+	•	Line Chart: Monthly Revenue Trend
+	•	KPI Section: Quick view of total customers, churned, active, and revenue
 
-📌 Tools Used
+⸻
 
-Microsoft Excel
+Files Included
+	•	customer-churn-analysis.xlsx: Cleaned and analyzed Excel workbook
+	•	dashboard-customer-churn.png: Final dashboard screenshot
+	•	churn-data.csv: Source dataset
 
-PivotTables
+⸻
 
-Slicers & Charts
+Tools Used
+	•	Microsoft Excel (Pivot Tables, Calculated Fields, Charts)
+	•	Data Cleaning
+	•	Dashboard Design
+
+⸻
 
 📷 Screenshot
 
-<img width="1065" alt="image" src="https://github.com/user-attachments/assets/bff8ac55-2bc6-4f92-a860-b07c8d0ce9d5" />
+<img width="1037" alt="image" src="https://github.com/user-attachments/assets/3e40b58d-0bc7-4aaf-970e-4cc1d917640a" />
+
+GitHub Repository:
+View on GitHub
 
 
 🔗 Project Link
 
 View on GitHub
+
 
 🧠 What I Learned
 
@@ -71,7 +78,7 @@ Data cleaning and field transformation
 
 ├── customer_churn_dataset.xlsx
 
-├── dashboard-screenshot.png
+├── dashboard-churn-analysis.png
 
 └── README.md
 
@@ -79,3 +86,4 @@ Data cleaning and field transformation
 
 For questions or collaboration:
 GitHub: DonaM32
+
